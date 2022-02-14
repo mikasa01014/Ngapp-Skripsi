@@ -1,0 +1,36 @@
+Warna ilustrasi
+#B474FD
+Gambar Ilustrasi_Welcome,Ilustrasi_Login,Ilustrasi_Register
+undraw.co
+Gambar Logo,logo2
+canva.com
+SplashBackground
+https://wallpapercave.com/w/wp5750729
+Location PNG
+https://pngtree.com/freepng/red-map-location-location-icon-element_5494315.html
+Search PNG
+https://pngtree.com/freepng/search-icon_4699282.html
+emptyCart
+https://www.pngfind.com/mpng/iTRmRhR_continue-shopping-empty-cart-png-transparent-png/
+Cash
+https://toppng.com/cash-in-hand-icon-PNG-free-PNG-Images_77405
+BankTransfer
+http://getdrawings.com/get-icon#bank-transfer-icon-73.png
+orderCompleted
+https://icon-library.com/icon/new-order-icon-5.html
+orderCancel
+https://www.pikpng.com/pngvi/iRomhRT_png-file-svg-cancel-order-icon-png-clipart/
+orderProses
+https://pngio.com/images/png-b2319070.html
+HistoryEmpty
+https://www.pngkey.com/maxpic/u2r5a9w7e6q8t4e6/
+OrderReady
+https://www.pngkey.com/maxpic/u2r5e6t4r5t4q8t4/
+
+warna
+Default : #B474FD
+Disable : #A5B1C2
+Dark : #474747
+text: 
+	Default : #7E7E7E
+
